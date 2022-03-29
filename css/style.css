@@ -90,6 +90,11 @@ li {
   letter-spacing: .08em;
 }
 
+h3{
+  margin: 0 auto;
+  text-align: center;
+}
+
 /*--------------------------------
  下層ページのheader
 ---------------------------------*/
@@ -212,7 +217,7 @@ li {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  width: 48%;
+  width: 100%;
   margin-bottom: 50px;
 }
 
